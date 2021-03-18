@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NiTian1207/NiTian1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
